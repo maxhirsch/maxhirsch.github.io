@@ -6,4 +6,5 @@ permalink: /teaching/2020_matrices
 venue: "Carnegie Mellon University"
 date: 2020-01-09
 location: "Pittsburgh, PA"
+item: 1
 ---
