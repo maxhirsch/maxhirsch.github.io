@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate senior at Carnegie Mellon in the Honors Math Program. I am currently studying abroad at the École Polytechnique Fédérale de Lausanne, where I am working in the Computational Mathematics and Simulation Sciences group.
+I am an undergraduate senior at Carnegie Mellon in the Honors Math Program. 
+
+In Fall 2022, I studied abroad at the École Polytechnique Fédérale de Lausanne, where I was doing research in the Computational Mathematics and Simulation Sciences group.
 
 My interests include:
 - Numerical Methods for PDEs
