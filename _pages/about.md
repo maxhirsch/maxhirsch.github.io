@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate senior at Carnegie Mellon in the Honors Math Program. I will be starting a Ph.D. in Applied Mathematics at UC Berkeley in the fall as a NSF Graduate Research Fellow.
+I am a first year Applied Math PhD student and NSF Graduate Research Fellow at UC Berkeley, where I am advised by Prof. Franziska Weber. 
 
-In Fall 2022, I studied abroad at the École Polytechnique Fédérale de Lausanne, where I was doing research in the Computational Mathematics and Simulation Sciences group.
+Education:
+* M.S. Mathematical Sciences, Carnegie Mellon University
+* B.S. Mathematical Sciences, Carnegie Mellon University
+
+In Fall 2022, I studied abroad at the École Polytechnique Fédérale de Lausanne, where I was doing research in the Computational Mathematics and Simulation Sciences group of Prof. Jan S. Hesthaven.
 
 My interests include:
 - Numerical Methods for PDEs
