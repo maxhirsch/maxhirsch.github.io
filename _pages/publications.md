@@ -18,19 +18,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-<>## Published
-<>
-<>{% for post in site.publications reversed %}
-<>  {% if post.pubsource == "journal" %}
-<>    {% include archive-single.html %}
-<>  {% endif %}
-<>{% endfor %}
-<>
-<>## Proceedings
-<>
-<>{% for post in site.publications reversed %}
-<>  {% if post.pubsource == "proceeding" %}
-<>    {% include archive-single.html %}
-<>  {% endif %}
-<>{% endfor %}
