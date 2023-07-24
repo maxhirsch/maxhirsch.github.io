@@ -9,5 +9,4 @@ item: 1
 venue: 'arXiv:2307.11229'
 authors: 'M. Hirsch, F. Weber'
 pubsource: 'unpublished'
-'
 ---
