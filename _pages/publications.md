@@ -15,6 +15,6 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.pubsource == "unpublished" %}
-    {% include archive-single.html %}
+    {% include archive-single2.html %}
   {% endif %}
 {% endfor %}
