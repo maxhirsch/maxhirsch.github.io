@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Applied Math PhD student and NSF Graduate Research Fellow at UC Berkeley, where I am advised by Prof. Franziska Weber. 
+I am a second year Applied Math PhD student and NSF Graduate Research Fellow at UC Berkeley, where I am advised by Prof. Franziska Weber. 
 
 **Education:**
 * M.S. Mathematical Sciences, Carnegie Mellon University
@@ -18,5 +18,6 @@ In Fall 2022, I studied abroad at the École Polytechnique Fédérale de Lausann
 
 **My interests include:**
 - Numerical Methods for PDEs
-- Structure-Preserving Reduced Order Models
-- Theoretical Machine Learning
+- Reduced Order Models
+- Machine Learning for Scientific Computing
+- Applications to Liquid Crystals
