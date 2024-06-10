@@ -14,8 +14,6 @@ I am a second year Applied Math PhD student and NSF Graduate Research Fellow at 
 * M.S. Mathematical Sciences, Carnegie Mellon University
 * B.S. Mathematical Sciences, Carnegie Mellon University
 
-In Fall 2022, I studied abroad at the École Polytechnique Fédérale de Lausanne, where I was doing research in the Computational Mathematics and Simulation Sciences group of Prof. Jan S. Hesthaven.
-
 **My interests include:**
 - Numerical Methods for PDEs
 - Reduced Order Models
