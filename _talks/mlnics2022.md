@@ -3,8 +3,8 @@ title: "Applications of MLniCS: A Library for Physics-Informed Neural Networks f
 collection: talks
 type: "Talk"
 permalink: /talks/mcss_seminar
-venue: "École Polytechnique Fédérale de Lausanne"
+venue: "Computational Mathematics and Simulation Sciences Seminar"
 date: 2022-11-02
-location: "Lausanne, Switzerland"
+location: "École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland"
 item: 2
 ---
