@@ -3,8 +3,8 @@ title: "Neural empirical interpolation method for nonlinear model reduction"
 collection: talks
 type: "Talk"
 permalink: /talks/ucbpde
-venue: "UC Berkeley Applied PDE Student Seminar"
+venue: "Applied PDE Student Seminar"
 date: 2024-08-30
-location: "Berkeley, California"
+location: "University of California, Berkeley"
 item: 4
 ---
