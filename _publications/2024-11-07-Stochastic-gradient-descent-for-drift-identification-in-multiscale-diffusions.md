@@ -2,8 +2,8 @@
 title: "Stochastic gradient descent in continuous time for drift identification in multiscale diffusions"
 collection: publications
 permalink: /publication/2024-11-07-Stochastic-gradient-descent-in-continuous-time-for-drift-identification-in-multiscale-diffusions
-excerpt: ''
-paperurl: 'https://www.esaim-m2an.org/articles/m2an/abs/2024/06/m2an240167/m2an240167.html'
+excerpt: '[ESAIM: M2AN](https://www.esaim-m2an.org/articles/m2an/abs/2024/06/m2an240167/m2an240167.html) [ArXiV](https://arxiv.org/abs/2409.12935)'
+paperurl: ''
 date: 2024-11-07
 item: 1
 venue: 'ESAIM: M2AN'
