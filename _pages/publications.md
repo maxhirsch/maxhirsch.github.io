@@ -18,3 +18,11 @@ author_profile: true
     {% include archive-single2.html %}
   {% endif %}
 {% endfor %}
+
+## Publications
+
+{% for post in site.publications reversed %}
+  {% if post.pubsource == "published" %}
+    {% include archive-single2.html %}
+  {% endif %}
+{% endfor %}
