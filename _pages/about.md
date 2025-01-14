@@ -18,6 +18,7 @@ Check out [MLniCS](https://github.com/MLniCS/MLniCS), a library for creating phy
 
 **My interests include:**
 - Numerical Methods for PDEs
-- Reduced Order Models
+- Optimization
 - Machine Learning for Scientific Computing
+- Reduced Order Models
 - Applications to Liquid Crystals
