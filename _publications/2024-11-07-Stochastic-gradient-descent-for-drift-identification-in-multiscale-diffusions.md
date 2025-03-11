@@ -8,5 +8,5 @@ date: 2024-11-07
 item: 1
 venue: 'ESAIM: M2AN'
 authors: 'M. Hirsch, A. Zanoni'
-pubsource: 'published'
+pubsource: 'journal'
 ---
