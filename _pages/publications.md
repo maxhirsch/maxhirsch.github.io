@@ -20,7 +20,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Publications
 
 {% for post in site.publications reversed %}
-  {% if post.pubsource == "published" %}
+  {% if post.pubsource == "journal" %}
     {% include archive-single2.html %}
   {% endif %}
 {% endfor %}
