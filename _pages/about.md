@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Applied Math PhD student and NSF Graduate Research Fellow at UC Berkeley, where I am advised by Prof. Franziska Weber. 
+I am a third year Applied Math PhD Candidate and NSF Graduate Research Fellow at UC Berkeley, where I am advised by Prof. Franziska Weber. 
 
 Check out [MLniCS](https://github.com/MLniCS/MLniCS), a library for creating physics-informed neural networks for parameterized reduced order models which I contribute to!
 
