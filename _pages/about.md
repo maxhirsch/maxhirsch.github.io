@@ -21,4 +21,4 @@ Check out [MLniCS](https://github.com/MLniCS/MLniCS), a library for creating phy
 - Optimization
 - Machine Learning for Scientific Computing
 - Reduced Order Models
-- Applications to Liquid Crystals
+- Applications to Liquid Crystals and Fluids
