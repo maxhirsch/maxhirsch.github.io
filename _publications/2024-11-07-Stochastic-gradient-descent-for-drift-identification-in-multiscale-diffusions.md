@@ -6,7 +6,7 @@ excerpt: 'ESAIM: M2AN Volume 58 / No 6'
 paperurl: 'https://www.esaim-m2an.org/articles/m2an/abs/2024/06/m2an240167/m2an240167.html'
 date: 2024-11-07
 item: 1
-venue: 'ESAIM: M2AN'
+venue: 'ESAIM: Mathematical Modelling and Numerical Analysis 58 (6), 2387-2414'
 authors: 'M. Hirsch, A. Zanoni'
 pubsource: 'journal'
 ---
