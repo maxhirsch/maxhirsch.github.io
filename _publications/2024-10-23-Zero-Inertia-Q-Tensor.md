@@ -1,5 +1,5 @@
 ---
-title: "The Zero Inertia Limit for the Q-Tensor Model of Liquid Crystals: Analysis and Numerics"
+title: "The zero inertia limit for the Q-tensor model of liquid crystals: analysis and numerics"
 collection: publications
 permalink: /publication/2024-10-23-Zero-Inertia-Q-Tensor
 excerpt: 'ESAIM: M2AN'
