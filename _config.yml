@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Max Hirsch"
-  avatar           : "profile.JPG"
-  bio              : "Applied Math PhD Student at UC Berkeley"
+  avatar           : "profile.jpg"
+  bio              : "Applied Math PhD Student at UC Berkeley (above with Ulisse Dini)"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
