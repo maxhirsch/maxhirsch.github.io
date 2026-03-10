@@ -1,5 +1,5 @@
 ---
-permalink: /high-school-tips/
+permalink: /miscellaneous/high-school-tips/
 title: "Tips for High School Math Students"
 excerpt: "Tips for High School Math Students"
 author_profile: true
