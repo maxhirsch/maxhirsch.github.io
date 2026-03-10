@@ -7,4 +7,4 @@ redirect_from:
   - /misc
 ---
 
-- See this page for [tips for high school math students](maxhirsch.github.io/high-school-tips).
+- See this page for [tips for high school math students](high-school-tips).
