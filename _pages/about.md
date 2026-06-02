@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Applied Math PhD Candidate and NSF Graduate Research Fellow at UC Berkeley, where I am advised by Prof. Franziska Weber. 
+I am a fourth year Applied Math PhD Candidate and NSF Graduate Research Fellow at UC Berkeley, where I am advised by Prof. Franziska Weber. 
 
 Check out [MLniCS](https://github.com/MLniCS/MLniCS), a library for creating physics-informed neural networks for parameterized reduced order models which I contribute to!
 
@@ -17,8 +17,7 @@ Check out [MLniCS](https://github.com/MLniCS/MLniCS), a library for creating phy
 * B.S. Mathematical Sciences, Carnegie Mellon University
 
 **My mathematical research interests include:**
-- Numerical Methods for PDEs
-- Optimization
-- Machine Learning for Scientific Computing
-- Reduced Order Models
+- Numerical Methods for Stochastic Partial Differential Equations
+- Reduced Order Models and Approximation Theory
+- Optimization and Machine Learning for Scientific Computing
 - Applications to Liquid Crystals and Fluids
