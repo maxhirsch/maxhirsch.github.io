@@ -50,6 +50,8 @@ jobs:
 
       - name: Build Jupyter Book
         working-directory: book-source
+        env:
+          BASE_URL: /book
         run: myst build --html
 
       - name: Copy book into site
