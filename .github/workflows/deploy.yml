@@ -1,0 +1,67 @@
+name: Deploy site with Jupyter Book
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout website
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby (for Jekyll)
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Checkout book repo
+        uses: actions/checkout@v4
+        with:
+          repository: maxhirsch/Stat-Phys-ML-Summer-School
+          path: book-source
+
+      - name: Set up Node (for MyST / Jupyter Book 2)
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18.x
+
+      - name: Install MyST
+        run: npm install -g mystmd
+
+      - name: Build Jupyter Book
+        working-directory: book-source
+        run: myst build --html
+
+      - name: Copy book into site
+        run: |
+          mkdir -p _site/book
+          cp -r book-source/_build/html/. _site/book/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
