@@ -1,5 +1,5 @@
 ---
-title: "Vector Calculus for Computer Scientists"
+title: "Vector Calculus for Computer Scientists (Calculus III)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2023_vector_calculus
