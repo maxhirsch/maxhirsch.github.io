@@ -1,5 +1,5 @@
 ---
-title: "Integration and Approximation"
+title: "Integration and Approximation (Calculus II)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2021_integration
